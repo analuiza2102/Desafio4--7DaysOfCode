@@ -11,7 +11,8 @@ Desafio 4 #7DaysOfCode -- Alura
 | :fire: Desafio     |[https://7daysofcode.io/#front-end)
 
 
-#Descrição
+# Descrição
+
  Projeto: Jogo de adivinhação;
  Objetivo: Aprimorar habilidades;
  --- Nesse decidi não focar muito no design e sim na parte de programação, pois o desafio é sobre JS.
